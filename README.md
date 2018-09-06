@@ -18,7 +18,7 @@ Code for Buffalo uses civic tech to improve quality of life. We want to help cit
 
 Code for Buffalo is an [open source](https://en.wikipedia.org/wiki/Open_source) organization. We make our projects freely and openly available. GitHub is where we collaborate. There are some really handy tools here, including a feature called [*Issues*](https://github.com/CodeForBuffalo/project-ideas/issues/). This is where we can break projects into manageable problems for collaborators to solve together. 
 
-We hope you find what you're looking for, but if you need help, you can email us [here](leadership@codeforbuffalo.org)!
+We hope you find what you're looking for, but if you need help, you can email us [here](mailto:leadership@codeforbuffalo.org)!
 
 Thanks for co-creating with us!
 
