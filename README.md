@@ -2,14 +2,15 @@
 
 #### Want to start an Code for Buffalo project?
 
-[Share your idea with us!](https://github.com/open-austin/project-ideas/issues/new)
+[Share your idea with us!](https://github.com/CodeForBuffalo/project-ideas/issues/new)
 
 #### Looking to jump into an existing project?
 
-- Join an [active project](https://github.com/open-austin/project-ideas/milestone/2)
-- Revive and direct an [abandoned idea](https://github.com/open-austin/project-ideas/milestone/5)
-- Browse [all the project ideas](https://github.com/open-austin/project-ideas/issues)
-- Practice a specific skill, like [design](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adesign&type=Issues), [dev](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adev&type=Issues), or [data wrangling](https://github.com/search?o=desc&q=org%3Aopen-austin+is%3Aopen+label%3A%22Data+wrangling%22&s=created&type=Issues&utf8=✓).
+<!--- Join an [active project](https://github.com/open-austin/project-ideas/milestone/2)
+- Revive and direct an [abandoned idea](https://github.com/open-austin/project-ideas/milestone/5)-->
+- Browse [all the project ideas](https://github.com/CodeForBuffalo/project-ideas/issues/)
+- More info coming soon!
+<!--- Practice a specific skill, like [design](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adesign&type=Issues), [dev](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adev&type=Issues), or [data wrangling](https://github.com/search?o=desc&q=org%3Aopen-austin+is%3Aopen+label%3A%22Data+wrangling%22&s=created&type=Issues&utf8=✓).-->
 
 ## About the Code for Buffalo Team
 
@@ -31,11 +32,11 @@ Thanks for co-creating with us!
 
 #### Comment on an existing idea (a.k.a. "issue")
 
-Scroll through the [issues list](https://github.com/open-austin/project-ideas/issues) first to see if anyone's already thinking the same way! If you see an idea that catches your eye, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. If you see the **Needs Leadership** label, bring it up at a hack night, and if you're up for it you can take the lead on it!
+Scroll through the [issues list](https://github.com/CodeForBuffalo/project-ideas/issues/) first to see if anyone's already thinking the same way! If you see an idea that catches your eye, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. If you see the **Needs Leadership** label, bring it up at a hack night, and if you're up for it you can take the lead on it!
 
 #### Or, create a new idea.
 
-If you don't see the idea you have in mind, [add a new one](https://github.com/open-austin/project-ideas/issues/new). You'll need a title and description. Someone from the Code for Buffalo Core Team will respond, likely with some questions or feedback, and assign you to the issue to indicate you are leading the effort.
+If you don't see the idea you have in mind, [add a new one](https://github.com/CodeForBuffalo/project-ideas/issues/new). You'll need a title and description. Someone from the Code for Buffalo Core Team will respond, likely with some questions or feedback, and assign you to the issue to indicate you are leading the effort.
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
 
@@ -45,5 +46,5 @@ If you don't see the idea you have in mind, [add a new one](https://github.com/o
 
 * If nobody's talking yet, it might be that your idea needs some more fleshing out. We highly recommend thinking through the [Civic Tech Canvas](https://github.com/open-austin/civic-tech-canvas) as a next step! 
 
-* If you're willing to be the champion on this project, you should let one of our [project leads](mailto:hack@open-austin.org) know. GitHub is the platform we're using to collect and vet ideas and then convert them into [active projects](https://github.com/open-austin). Once a project becomes active, we'll help you set up a repository on the Code for Buffalo GitHub organization so you can start scoping and collaborating. We'll continue to use the Issues feature on your own project repo to flag obstacles, opportunities, and answer questions about that specific project. We will then add the project repo link to your idea issue and close it, indicating your graduation from idea to an active project.
+* If you're willing to be the champion on this project, you should let one of our [project leads](mailto:leadership@codeforbuffalo.org) know. GitHub is the platform we're using to collect and vet ideas and then convert them into [active projects](https://github.com/CodeForBuffalo/). Once a project becomes active, we'll help you set up a repository on the Code for Buffalo GitHub organization so you can start scoping and collaborating. We'll continue to use the Issues feature on your own project repo to flag obstacles, opportunities, and answer questions about that specific project. We will then add the project repo link to your idea issue and close it, indicating your graduation from idea to an active project.
 
