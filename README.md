@@ -1,6 +1,6 @@
 # Code for Buffalo: Project Ideas
 
-#### Want to start an Code for Buffalo project?
+#### Want to start a Code for Buffalo project?
 
 [Share your idea with us!](https://github.com/CodeForBuffalo/project-ideas/issues/new)
 
