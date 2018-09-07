@@ -30,7 +30,7 @@ Answer here.
 Answer here.
 
 
-### How can we contact you outside of Github(list social media or places you're present)?
+### How can we contact you outside of Github(email, social media, etc)?
 
 Answer here.
 
