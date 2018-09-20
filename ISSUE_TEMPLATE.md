@@ -57,7 +57,7 @@ Let's get this project started! When this idea starts taking off, the Projects C
 - [ ] Create a [team](https://help.github.com/articles/creating-a-team/) for your core contributors
   - This will make it easier for you to manage your github repo access. People on a team have the same level of access. Admin access will allow your trusted contributors to make changes as needed. 
   - You can remove and add people to your team as needed. 
- <!-- ADD BUFFALO TEAMS View some of our teams: [https://github.com/orgs/open-austin/teams](https://github.com/orgs/open-austin/teams) -->
+ <!-- EDIT TODO: ADD BUFFALO TEAMS View some of our teams: [https://github.com/orgs/open-austin/teams](https://github.com/orgs/open-austin/teams) -->
   - Note: You can also allow collaborators outside of your team and give them more limited access.
 - [ ]   Create a new project channel in Slack so you can "@" your core contributors all at once.
 - [ ]   Create a [Google Drive](https://drive.google.com), [Dropbox](https://www.dropbox.com/), or other cloud storage to share larger files. Github and Data.World are good for code and data, respectively, especially when you need version control. But they're not good for very large files, documentation, articles, etc. A cloud storage option will allow you to easily share, create, and collaborate on documents with your team and help organize ideas and thoughts.
@@ -70,7 +70,7 @@ To have your project FEATURED on the [Code for Buffalo website](https://codeforb
 - [ ] [Create file: LICENSE](http://choosealicense.com/) to give your project an open license, allowing for sharing and remixing.
 - [ ] [Create file: CONTRIBUTING.md](https://github.com/acabunoc/mozsprint-repo-template/blob/master/CONTRIBUTING.md) so others know [how they can contribute](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
 - [ ] Create an easily shareable project management artifact, like a [Civic Tech Canvas](https://cityofaustin.github.io/civic-tech-canvas/) or [Open Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/)
-- [ ] [Create an issue](https://github.com/CodeForBuffalo/project-ideas/issues/new) on the CodeForBuffalo.github.io repo with the title `Add [my project] to projects page`. A Code for Buffalo leader will review this issue and post your project :balloon:
+- [ ] [Create an issue](https://github.com/CodeForBuffalo/CodeForBuffalo.github.io/issues/new) on the CodeForBuffalo.github.io repo with the title `Add [my project] to projects page`. A Code for Buffalo leader will review this issue and post your project :balloon:
 - [ ] [Tell the City of Buffalo](https://data.buffalony.gov/stories/s/8ibu-5j7v/). If your idea is in a shareable format and can benefit people around the city, go to that site and follow the instructions on the bottom of the page to showcase your work there.
 
 If you get stuck at any point, feel free to reach out to the leadership team on Slack by adding @leadership to your message. We're here to help you make real changes to our city.
